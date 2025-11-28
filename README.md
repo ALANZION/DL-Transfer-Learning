@@ -219,19 +219,18 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Confusion Matrix
 
-<img width="708" height="660" alt="image" src="https://github.com/user-attachments/assets/84cc7f98-7207-4bc4-9bca-1e9c3d5f2378" />
+<img width="674" height="568" alt="image" src="https://github.com/user-attachments/assets/26ca7a1a-012b-425c-bc5e-9666d6caa1b5" />
 
 ## Classification Report
+<img width="487" height="197" alt="image" src="https://github.com/user-attachments/assets/f85d9e08-baba-4926-b630-c3e73ac02716" />
 
-<img width="478" height="249" alt="image" src="https://github.com/user-attachments/assets/973b56cd-bca9-4545-8220-96aa2184a921" />
 
 
 ### New Sample Data Prediction
 
-<img width="413" height="467" alt="image" src="https://github.com/user-attachments/assets/b275017b-9913-4523-82b2-834dbd33e698" />
+<img width="452" height="371" alt="image" src="https://github.com/user-attachments/assets/9f976c3c-4b24-482c-a012-150691629f2b" />
+<img width="470" height="368" alt="image" src="https://github.com/user-attachments/assets/3eb17f88-848c-406d-bf47-88a6781bf8c6" />
 
-
-<img width="396" height="475" alt="image" src="https://github.com/user-attachments/assets/7c1d7d0d-b253-4005-a2b4-fcd47394d589" />
 
 ## RESULT
 The model successfully classifies images from the dataset using transfer learning with VGG19. 
